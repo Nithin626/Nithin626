@@ -19,7 +19,9 @@ I enjoy building practical applications that combine software engineering with A
 
 ### 🔗 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/nithin626) · [GitHub](https://github.com/nithin626) . [Gmail](nithing627w@gmail.com)
+* LinkedIn - https://linkedin.com/in/nithin626 
+* GitHub - https://github.com/nithin626
+* Gmail - nithing627w@gmail.com
 
 
 <!---
